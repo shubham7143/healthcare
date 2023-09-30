@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+}
+
+.card-img-top {
+    width: 90%;
+    margin: auto;
+}
+
+.card-body .btn-primary {
+    color: #ffffff;
+    padding: 2%;
+    width: 100%;
+    background-color: #7C5193;
+}

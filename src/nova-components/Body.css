@@ -1,0 +1,52 @@
+.cardio {
+    background-color: #7bd1ac;
+    color: #ffffff;
+}
+
+.neuro {
+    background-color: #25ba7a;
+    color: #ffffff;
+}
+
+.ent {
+    background-color: #218459;
+    color: #ffffff;
+}
+
+.card-link {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 2%;
+    width: 60%;
+}
+
+.one {
+    background-color: #6ABB97;
+}
+
+.two {
+    background-color: #20A76D;
+}
+
+.three {
+    background-color: #1D7951;
+}
+
+#app {
+    padding: 0 4%;
+    background-color: #9155a7;
+    color: #ffffff;
+    height: 5em;
+}
+
+#app .btn {
+    padding: 0 2%;
+    box-sizing: border-box;
+    display: block;
+    margin: 2% 0%;
+    background-color: #7C5193;
+    color: #ffffff;
+    border-radius: 0%;
+    text-align: left;
+    width: 70%;
+}
